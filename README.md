@@ -19,8 +19,13 @@ Aqui estão as tecnologias utilizadas neste projeto.
 * PyCharm Community Edition
 * Arduino IDE
 
-### Plataforma compatíveis
-* Windows
+### Hardware Utilizados
+* Placa-mãe Qawge LA-8681P
+* Arduino Uno R3
+* Protoboard
+* CI L293DD
+* CI 7404
+* Motores Dc entre outros
 
 ### Situação do Projeto
 Projeto de software e hardware ainda em desenvolvimento.
